@@ -1,1 +1,991 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="Kings Tec - Professional websites, digital solutions, branding and technology services.">
+
+    <title>Kings Tec | Digital Solutions</title>
+
+    <!-- CONNECTED CSS -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<!-- ================= HEADER ================= -->
+
+<header>
+
+    <nav class="navbar">
+
+        <a href="#home" class="logo">
+            <span>K</span>
+            Kings <b>Tec</b>
+        </a>
+
+
+        <div class="nav-links">
+
+            <a href="#home">Home</a>
+
+            <a href="#services">Services</a>
+
+            <a href="#about">About</a>
+
+            <a href="#portfolio">Portfolio</a>
+
+            <a href="#contact">Contact</a>
+
+        </div>
+
+
+        <a href="#contact" class="nav-button">
+            Let's Talk →
+        </a>
+
+    </nav>
+
+</header>
+
+
+
+<!-- ================= HERO ================= -->
+
+<section class="hero" id="home">
+
+
+    <div class="hero-content">
+
+        <div class="badge">
+            ● DIGITAL SOLUTIONS FOR MODERN BUSINESS
+        </div>
+
+
+        <h1>
+
+            Build a brand
+            people
+
+            <span>remember.</span>
+
+        </h1>
+
+
+        <p>
+
+            Kings Tec creates modern websites,
+            digital experiences and technology
+            solutions that help businesses look
+            professional, reach customers and grow.
+
+        </p>
+
+
+        <div class="hero-buttons">
+
+            <a href="#contact"
+               class="btn primary">
+
+                Start a Project →
+
+            </a>
+
+
+            <a href="#portfolio"
+               class="btn secondary">
+
+                View Our Work
+
+            </a>
+
+        </div>
+
+
+        <div class="hero-stats">
+
+            <div>
+
+                <strong>01</strong>
+
+                <small>
+                    Modern Design
+                </small>
+
+            </div>
+
+
+            <div>
+
+                <strong>24/7</strong>
+
+                <small>
+                    Digital Presence
+                </small>
+
+            </div>
+
+
+            <div>
+
+                <strong>100%</strong>
+
+                <small>
+                    Responsive
+                </small>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- PHOTO -->
+
+    <div class="hero-image">
+
+        <div class="image-card">
+
+            <img
+                src="founder.jpeg"
+                alt="Kings Tec">
+
+            <div class="image-label">
+
+                <strong>
+                    KINGS TEC
+                </strong>
+
+                <small>
+                    Technology • Design • Growth
+                </small>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+</section>
+
+
+
+<!-- ================= SERVICES ================= -->
+
+<section class="section"
+         id="services">
+
+
+    <div class="section-heading">
+
+        <div>
+
+            <span>
+                WHAT WE DO
+            </span>
+
+            <h2>
+
+                Everything you need to
+                <strong>go digital.</strong>
+
+            </h2>
+
+        </div>
+
+
+        <p>
+
+            Powerful digital solutions
+            designed to help your business
+            stand out.
+
+        </p>
+
+    </div>
+
+
+
+    <div class="services-grid">
+
+
+        <div class="service-card">
+
+            <div class="number">
+                01
+            </div>
+
+            <div class="icon">
+                ⌘
+            </div>
+
+            <h3>
+                Website Development
+            </h3>
+
+            <p>
+
+                Professional, fast and
+                responsive websites designed
+                around your business.
+
+            </p>
+
+            <a href="#contact">
+                Learn more →
+            </a>
+
+        </div>
+
+
+
+        <div class="service-card">
+
+            <div class="number">
+                02
+            </div>
+
+            <div class="icon">
+                ◈
+            </div>
+
+            <h3>
+                Brand & Graphics
+            </h3>
+
+            <p>
+
+                Beautiful visual designs that
+                make your business look
+                professional.
+
+            </p>
+
+            <a href="#contact">
+                Learn more →
+            </a>
+
+        </div>
+
+
+
+        <div class="service-card">
+
+            <div class="number">
+                03
+            </div>
+
+            <div class="icon">
+                ↗
+            </div>
+
+            <h3>
+                Digital Growth
+            </h3>
+
+            <p>
+
+                Digital strategies, landing
+                pages and solutions designed
+                to attract customers.
+
+            </p>
+
+            <a href="#contact">
+                Learn more →
+            </a>
+
+        </div>
+
+
+
+        <div class="service-card">
+
+            <div class="number">
+                04
+            </div>
+
+            <div class="icon">
+                ⚙
+            </div>
+
+            <h3>
+                Tech Support
+            </h3>
+
+            <p>
+
+                Technology setup,
+                troubleshooting, updates
+                and ongoing support.
+
+            </p>
+
+            <a href="#contact">
+                Learn more →
+            </a>
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= ABOUT ================= -->
+
+<section class="about section"
+         id="about">
+
+
+    <div class="about-image">
+
+        <img
+            src="founder.jpeg"
+            alt="Kings Tec founder">
+
+    </div>
+
+
+
+    <div class="about-content">
+
+        <span>
+            ABOUT KINGS TEC
+        </span>
+
+
+        <h2>
+
+            Technology should make
+            business
+
+            <strong>easier.</strong>
+
+        </h2>
+
+
+        <p>
+
+            We believe your digital presence
+            should be more than something
+            that looks good.
+
+            It should communicate clearly,
+            work beautifully on every device
+            and help customers take action.
+
+        </p>
+
+
+
+        <div class="features">
+
+
+            <div>
+
+                <b>✓</b>
+
+                <div>
+
+                    <strong>
+                        Clear Communication
+                    </strong>
+
+                    <small>
+                        Simple experiences your
+                        customers understand.
+                    </small>
+
+                </div>
+
+            </div>
+
+
+
+            <div>
+
+                <b>✓</b>
+
+                <div>
+
+                    <strong>
+                        Quality Design
+                    </strong>
+
+                    <small>
+                        Clean layouts and
+                        professional visual details.
+                    </small>
+
+                </div>
+
+            </div>
+
+
+
+            <div>
+
+                <b>✓</b>
+
+                <div>
+
+                    <strong>
+                        Built To Grow
+                    </strong>
+
+                    <small>
+                        Flexible solutions that can
+                        grow with your business.
+                    </small>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+        <a href="#contact"
+           class="btn primary">
+
+            Work With Kings Tec →
+
+        </a>
+
+    </div>
+
+
+</section>
+
+
+
+<!-- ================= PROCESS ================= -->
+
+<section class="section process">
+
+
+    <div class="center-heading">
+
+        <span>
+            OUR PROCESS
+        </span>
+
+
+        <h2>
+
+            From idea to
+            <strong>launch.</strong>
+
+        </h2>
+
+
+        <p>
+
+            A simple process keeps every
+            project clear and focused.
+
+        </p>
+
+    </div>
+
+
+
+    <div class="process-grid">
+
+
+        <div>
+
+            <span>01</span>
+
+            <h3>
+                Discover
+            </h3>
+
+            <p>
+
+                We learn about your business,
+                customers and goals.
+
+            </p>
+
+        </div>
+
+
+
+        <div>
+
+            <span>02</span>
+
+            <h3>
+                Design
+            </h3>
+
+            <p>
+
+                We turn your idea into a
+                professional visual experience.
+
+            </p>
+
+        </div>
+
+
+
+        <div>
+
+            <span>03</span>
+
+            <h3>
+                Build
+            </h3>
+
+            <p>
+
+                We develop a responsive
+                and functional website.
+
+            </p>
+
+        </div>
+
+
+
+        <div>
+
+            <span>04</span>
+
+            <h3>
+                Launch
+            </h3>
+
+            <p>
+
+                We test, publish and help
+                you move forward.
+
+            </p>
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= PORTFOLIO ================= -->
+
+<section class="section"
+         id="portfolio">
+
+
+    <div class="section-heading">
+
+        <div>
+
+            <span>
+                OUR WORK
+            </span>
+
+            <h2>
+
+                Ideas made
+                <strong>real.</strong>
+
+            </h2>
+
+        </div>
+
+    </div>
+
+
+
+    <div class="portfolio-grid">
+
+
+        <div class="project project-one">
+
+            <span>
+                BUSINESS
+            </span>
+
+            <h3>
+
+                Modern Business
+                <br>
+
+                Experience
+
+            </h3>
+
+            <small>
+                Website Design & Development
+            </small>
+
+        </div>
+
+
+
+        <div class="project project-two">
+
+            <span>
+                CREATIVE
+            </span>
+
+            <h3>
+
+                Creative
+                <br>
+
+                Brand Studio
+
+            </h3>
+
+            <small>
+                Branding & Graphics
+            </small>
+
+        </div>
+
+
+
+        <div class="project project-three">
+
+            <span>
+                GROWTH
+            </span>
+
+            <h3>
+
+                Digital
+                <br>
+
+                Launch
+
+            </h3>
+
+            <small>
+                Landing Page & Strategy
+            </small>
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= CTA ================= -->
+
+<section class="cta">
+
+
+    <div>
+
+        <span>
+            HAVE A PROJECT?
+        </span>
+
+
+        <h2>
+
+            Let's build something
+            <strong>great.</strong>
+
+        </h2>
+
+
+        <p>
+
+            Tell us what you're working on
+            and let's turn the idea into reality.
+
+        </p>
+
+    </div>
+
+
+    <a href="#contact"
+       class="btn primary">
+
+        Start a Conversation →
+
+    </a>
+
+
+</section>
+
+
+
+<!-- ================= CONTACT ================= -->
+
+<section class="section contact"
+         id="contact">
+
+
+    <div class="center-heading">
+
+        <span>
+            CONTACT KINGS TEC
+        </span>
+
+
+        <h2>
+
+            Let's talk about your
+            <strong>next project.</strong>
+
+        </h2>
+
+
+        <p>
+
+            Choose whichever method
+            is easiest for you.
+
+        </p>
+
+    </div>
+
+
+
+    <div class="contact-grid">
+
+
+        <!-- WHATSAPP -->
+
+        <a
+            href="https://wa.me/2348101572210"
+            target="_blank"
+            class="contact-card">
+
+            <div>
+                ☏
+            </div>
+
+            <span>
+                WHATSAPP
+            </span>
+
+            <strong>
+                0810 157 2210
+            </strong>
+
+            <small>
+                Chat with us →
+            </small>
+
+        </a>
+
+
+
+        <!-- PHONE -->
+
+        <a
+            href="tel:+2348101572210"
+            class="contact-card">
+
+            <div>
+                ☎
+            </div>
+
+            <span>
+                PHONE
+            </span>
+
+            <strong>
+                0810 157 2210
+            </strong>
+
+            <small>
+                Call us →
+            </small>
+
+        </a>
+
+
+
+        <!-- EMAIL -->
+
+        <a
+            href="mailto:ogbonnaemmanuel646@gmail.com"
+            class="contact-card">
+
+            <div>
+                @
+            </div>
+
+            <span>
+                EMAIL
+            </span>
+
+            <strong>
+                ogbonnaemmanuel646@gmail.com
+            </strong>
+
+            <small>
+                Send an email →
+            </small>
+
+        </a>
+
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+
+    <div class="footer-content">
+
+
+        <div>
+
+            <a href="#home"
+               class="logo">
+
+                <span>K</span>
+
+                Kings <b>Tec</b>
+
+            </a>
+
+
+            <p>
+
+                Digital solutions for
+                businesses ready to move
+                forward.
+
+            </p>
+
+        </div>
+
+
+
+        <div>
+
+            <h4>
+                EXPLORE
+            </h4>
+
+            <a href="#home">
+                Home
+            </a>
+
+            <a href="#services">
+                Services
+            </a>
+
+            <a href="#about">
+                About
+            </a>
+
+            <a href="#portfolio">
+                Portfolio
+            </a>
+
+        </div>
+
+
+
+        <div>
+
+            <h4>
+                CONTACT
+            </h4>
+
+            <a href="tel:+2348101572210">
+                0810 157 2210
+            </a>
+
+            <a href="https://wa.me/2348101572210">
+                WhatsApp
+            </a>
+
+            <a href="mailto:ogbonnaemmanuel646@gmail.com">
+                Email
+            </a>
+
+        </div>
+
+
+
+        <div>
+
+            <h4>
+                START A PROJECT
+            </h4>
+
+            <p>
+
+                Have an idea?
+                Let's build it together.
+
+            </p>
+
+            <a
+                class="footer-link"
+                href="#contact">
+
+                Get in touch →
+
+            </a>
+
+        </div>
+
+
+    </div>
+
+
+    <div class="copyright">
+
+        © 2026 Kings Tec.
+        All rights reserved.
+
+    </div>
+
+
+</footer>
+
+
+
+<!-- FLOATING WHATSAPP -->
+
+<a
+    href="https://wa.me/2348101572210"
+    target="_blank"
+    class="whatsapp">
+
+    ☏
+
+</a>
+
+
+</body>
+
+</html>
